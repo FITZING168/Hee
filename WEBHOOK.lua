@@ -104,7 +104,7 @@ local function sendWebhook()
                 ["author"] = {
                     ["name"] = identifier
                 },
-                ["footer"] = {["text"] = "twvz | " .. os.date("%Y-%m-%d %H:%M:%S")}
+                ["footer"] = {["text"] = "FITZING168 | " .. os.date("%Y-%m-%d %H:%M:%S")}
             }
         }
     }
